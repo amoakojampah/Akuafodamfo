@@ -1,7 +1,10 @@
 # Akuafodamfo — Android App for Ghanaian Farmers
+<img width="576" height="1280" alt="WhatsApp Image 2026-06-01 at 2 49 58 AM (2)" src="https://github.com/user-attachments/assets/f468ead2-993e-468b-afda-759a1b7dd902" />
+
 
 Akuafodamfo (Twi: "Farmer's Friend") is an offline-first Android app that empowers Ghanaian smallholder farmers to:
 - Detect crop diseases early using on-device AI (cassava, maize, cocoa, yam)
+  
 - Optimize planting decisions via voice-guided recommendations on soil, rainfall & planting calendar
 - Secure better market prices with real-time regional price alerts
 
