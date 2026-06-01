@@ -1,0 +1,50 @@
+<!-- colors.xml -->
+<resources>
+    <!-- Base colors -->
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary color palette -->
+    <color name="colorPrimary">#4CAF50</color>  <!-- Material Green 500 -->
+    <color name="colorPrimaryDark">#388E3C</color>  <!-- Material Green 700 -->
+    <color name="colorPrimaryLight">#C8E6C9</color>  <!-- Light Green -->
+
+    <!-- Secondary color palette -->
+    <color name="colorSecondary">#2196F3</color>  <!-- Material Blue 500 -->
+    <color name="colorSecondaryDark">#1976D2</color>  <!-- Material Blue 700 -->
+
+    <!-- Background colors -->
+    <color name="background">#F5F5F5</color>  <!-- Light Gray -->
+    <color name="background_color">#F5F5F5</color>
+    <color name="weather_bg_color">#E3F2FD</color>  <!-- Light Blue -->
+
+    <!-- Text colors -->
+    <color name="textPrimary">#212121</color>  <!-- Dark Gray -->
+    <color name="text_primary">#212121</color>
+    <color name="textSecondary">#757575</color>  <!-- Medium Gray -->
+    <color name="text_secondary">#B3FFFFFF</color>  <!-- Semi-transparent white -->
+    <color name="secondary_text_color">#757575</color>
+    <color name="hint_color">#757575</color>
+
+    <!-- UI elements -->
+    <color name="divider">#BDBDBD</color>  <!-- Light Gray divider -->
+    <color name="outline_color">#FF5722</color>  <!-- Material Deep Orange 500 -->
+    <color name="button_background">#4CAF50</color>  <!-- Same as primary -->
+
+    <!-- Text input colors -->
+    <color name="text_input_box_stroke">#80FFFFFF</color>  <!-- Semi-transparent white -->
+    <color name="text_input_hint">#AFFFFFFF</color>  <!-- More transparent white -->
+    <color name="text_input_background">#10FFFFFF</color>  <!-- Very light transparent white -->
+
+    <!-- Result colors -->
+    <color name="result_background">#E8F5E9</color>  <!-- Light Green -->
+    <color name="result_text_color">#2E7D32</color>  <!-- Dark Green -->
+
+    <!-- MD3 semantic colors (mapped to existing colors) -->
+    <color name="md_on_primary">@color/white</color>
+    <color name="md_on_secondary">@color/white</color>
+    <color name="md_on_surface">@color/textPrimary</color>
+    <color name="md_surface">@color/background</color>
+    <color name="md_surface_variant">@color/colorPrimaryLight</color>
+    <color name="md_outline">@color/outline_color</color>
+    <color name="purple_500">#673AB7</color>
+</resources>

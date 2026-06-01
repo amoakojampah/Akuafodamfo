@@ -1,0 +1,54 @@
+<resources >
+    <string name="app_name">akuafodamfo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_new_account">Register New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="farm_location">Farm Location</string>
+    <string name="main_crop">Main Crop</string>
+    <string name="register">Register</string>
+    <string name="voice_command">Voice Command</string>
+    <string name="pest_detection">Pest Detection</string>
+    <string name="market_prices">Market Prices</string>
+    <string name="government_subsidies">Government Subsidies</string>
+    <string name="capture">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="humidity">Humidity:</string>
+    <string name="rainfall">Rainfall:</string>
+    <string name="price">Price:</string>
+    <string name="filter_by_crop">Filter by crop:</string>
+    <string name="market_data_note">Prices are updated daily from regional markets</string>
+    <string name="refresh">Refresh</string>
+        <string name="pest_detection_title">Pest Detection</string>
+        <string name="image_preview_description">Preview of captured or selected image</string>
+        <string name="detection_default_text">No detection yet</string>
+        <string name="capture_image">Capture Image</string>
+        <string name="choose_from_gallery">Choose from Gallery</string>
+        <string name="pest_detection_instructions">Take a clear photo of affected crop leaves for accurate detection</string>
+
+        <string name="weather_forecast">Weather Forecast</string>
+        <string name="humidity_label">Humidity:</string>
+        <string name="rainfall_label">Rainfall:</string>
+        <string name="recommendation_label">Farming Recommendation</string>
+        <string name="refresh_weather">Refresh Weather Data</string>
+    <string name="app_logo" />
+    <string name="crop_type">Crop Type</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="akuafodamfo">akuafodamfo</string>
+    <string name="detection_mode">Detection Mode:</string>
+    <string name="pest_detection_mode">Pest Detection</string>
+    <string name="disease_detection_mode">Disease Detection</string>
+        <!-- Existing strings -->
+    <!-- New strings for MarketActivity -->
+    <string name="last_updated">Last updated: %s</string>
+    <string name="all_crops">All Crops</string>
+    <string name="loading_error">Failed to load data. Please try again.</string>
+    <string name="loading_prices">Loading market prices\u2026</string>
+
+        <!-- Add these new strings -->
+
+
+        <string name="price_format">%1$s - %2$s %3$.2f/%4$s</string>
+
+</resources>

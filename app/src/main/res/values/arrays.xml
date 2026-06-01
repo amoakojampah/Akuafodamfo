@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="crop_types">
+        <item>All Crops</item>
+        <item>Maize</item>
+        <item>Cassava</item>
+        <item>Yam</item>
+        <item>Cocoa</item>
+        <item>Rice</item>
+    </string-array>
+</resources>

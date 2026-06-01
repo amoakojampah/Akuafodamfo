@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310301227247",
+    "project_id": "akuafodamfo",
+    "storage_bucket": "akuafodamfo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310301227247:android:f458f9d04b95ea8891831a",
+        "android_client_info": {
+          "package_name": "com.example.akuafodamfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310301227247-rlaonoqe9nfqcmpje3q7uueu6hrmtjk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZQLUN11j5XXFjAVYyXKAhfi8GwmoSa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310301227247-rlaonoqe9nfqcmpje3q7uueu6hrmtjk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
